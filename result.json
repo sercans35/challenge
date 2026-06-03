@@ -1,0 +1,57 @@
+[
+  {
+    "text": "Project notes",
+    "level": 1,
+    "byte_offset": 0
+  },
+  {
+    "text": "Components",
+    "level": 2,
+    "byte_offset": 101
+  },
+  {
+    "text": "Storage layer",
+    "level": 3,
+    "byte_offset": 180
+  },
+  {
+    "text": "Café — résumé section",
+    "level": 2,
+    "byte_offset": 317
+  },
+  {
+    "text": "Café — résumé section",
+    "level": 2,
+    "byte_offset": 387
+  },
+  {
+    "text": "Edge cases",
+    "level": 4,
+    "byte_offset": 465
+  },
+  {
+    "text": "Indented three spaces still a heading",
+    "level": 3,
+    "byte_offset": 503
+  },
+  {
+    "text": "Closing hashes",
+    "level": 1,
+    "byte_offset": 664
+  },
+  {
+    "text": "No space before closing###",
+    "level": 1,
+    "byte_offset": 686
+  },
+  {
+    "text": "🩺 Multi-byte heading at chunk boundary",
+    "level": 2,
+    "byte_offset": 716
+  },
+  {
+    "text": "Final line, no trailing newline",
+    "level": 1,
+    "byte_offset": 762
+  }
+]

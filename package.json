@@ -1,0 +1,16 @@
+{
+  "name": "markdown-heading-extractor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "markdown-headings": "./bin/markdown-headings.js"
+  },
+  "scripts": {
+    "extract": "node ./bin/markdown-headings.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
